@@ -1,18 +1,21 @@
 
 - # Hey, I'm Parveez 🤖
 
-I'm on an exciting journey from being a Mechatronics Specialist to becoming a Data Scientist 🚀. I'm enthusiastic about harnessing data's power to drive insights and decisions. Currently, I'm diving into the world of Data Science and working towards becoming a proficient Data Scientist.
+👷‍♂️ Mechatronics Engineer | 🤖 Robotics Enthusiast
+I have a strong foundation in mechatronics, with expertise in both industrial robots and mobile robotics. As a certified Industrial Robotics and Automation Engineer 🎓, I understand the intricacies of automation systems and their applications in various industries.
+
+I’ve built six innovative robots, showcasing my technical skills and creativity. Currently, I’m diving into ROS 2 🚀 to enhance my capabilities in developing sophisticated robotic applications. Additionally, I possess basic knowledge in machine learning 📊, allowing me to explore intelligent robotic systems. My journey is driven by curiosity and a commitment to pushing the boundaries of technology! 🌟
 
 ## 🤖 About Me
 
-- 🛠️ Former Mechatronics Specialist
-- 🌍 Transitioning to Data Science
-- 📊 Eager to learn and contribute to Data Science projects
-- 📚 Attending certificate program to build my Data Science skills
+- 🛠️ Working as Mechatronics Specialist
+- 🌍 Transitioning to ROS world
+- 📊 Eager to learn and contribute to Robotics projects
+- 📚 Attending certificate program to build my software and design skills
 
 ## 📚 Learning Path
 
-- 📊 Enrolled in Advanced certificate for Data Science
+- 📊 Completed Advanced certificate in Data Science and AI
 - 💻 Practicing data analysis and visualization on Power BI
 
 ## 📬 Reach Me
@@ -22,8 +25,8 @@ I'm on an exciting journey from being a Mechatronics Specialist to becoming a Da
 
 ## 🌟 Let's Connect
 
-I'm excited to connect with fellow learners, data enthusiasts, and professionals who have made transitions. 
-If you're curious about Data Science or have advice to share, let's chat!
+I'm excited to connect with fellow learners, Robotics enthusiasts, and professionals who have made transitions. 
+If you're curious about Robotics or have advice to share, let's chat!
 
 <!---
 parveezsyed28/parveezsyed28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
