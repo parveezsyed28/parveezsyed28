@@ -21,7 +21,7 @@ I’ve built six innovative robots, showcasing my technical skills and creativit
 ## 📬 Reach Me
 
 - 📧 Email: parveezbanu.s@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/parveez-banu-syed-azizuddin2807
+- 💼 LinkedIn: www.linkedin.com/in/parveez-banu2807
 
 ## 🌟 Let's Connect
 
