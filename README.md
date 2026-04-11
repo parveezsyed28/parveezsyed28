@@ -2,7 +2,7 @@
 - # Hey, I'm Parveez 🤖
 
 ⚙️ Mechatronics Engineer | 🏭 Transitioning into Industrial Automation and controls
-Mechatronics engineer with a background in Electrical & Electronics Engineering and hands-on experience in mechatronics. My focus right now is industrial automation and control systems — PLC programming, HMI development, and robotic workcell simulation.
+Mechatronics engineer with a background in Electrical & Electronics Engineering and hands-on experience in mechatronics. My focus right now is industrial automation and control systems — PLC programming with Allen Bradley, HMI development, and robotic workcell simulation with ABB RobotStudio.
 I learn by building. This profile is a record of that — projects across CODESYS, ABB RobotStudio, ROS 2, and embedded systems, each one started because I wanted to understand something deeply rather than just know it existed.
 
 ## 📊 Currently Working On
